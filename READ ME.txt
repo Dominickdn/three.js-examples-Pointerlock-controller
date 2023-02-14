@@ -1,0 +1,7 @@
+This code has not been changed and is found on threejs.org as an example project for pointer lock controls. 
+I have however added comments so that the code is easier to understand for noobs like myself. 
+The code is compiled with vite.
+
+To run install vite on your code editor. 
+cd vite-project
+npm run dev
